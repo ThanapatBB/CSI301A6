@@ -1,5 +1,8 @@
 ﻿# Bank DApp (Assignment 6)
 
+**ผู้จัดทำ:** นาย ธนภัทร หนูบุญมี  
+**รหัสนักศึกษา:** 66031036
+
 เว็บ DApp สำหรับ smart contract ระบบธนาคาร: เชื่อมต่อ MetaMask, เชื่อมต่อ contract, Deposit, Withdraw, Check Balance
 
 - เว็บ: https://thanapatbb.github.io/CSI301A6/
