@@ -2,7 +2,7 @@
 
 เว็บ DApp สำหรับ smart contract ระบบธนาคาร: เชื่อมต่อ MetaMask, เชื่อมต่อ contract, Deposit, Withdraw, Check Balance
 
-- เว็บ: https://thanapat-hnu.github.io/66031036-bank-dapp/
+- เว็บ: https://thanapatbb.github.io/CSI301A6/
 - Network: Ethereum Hoodi testnet (chainId 560048)
 - Contract: `0xd48cd2cd47787243C1e564325aaf88330b03a51d`
 
